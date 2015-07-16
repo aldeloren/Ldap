@@ -1,5 +1,5 @@
 {
-    "name": "xavrsl/ldap",
+    "name": "aldeloren/ldap",
     "description": "Add Ldap Search possibilities to Laravel",
     "keywords": ["laravel", "ldap", "search"],
 		"license": "MIT",
@@ -28,5 +28,5 @@
             "Xavrsl\\Ldap\\": "src"
         }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
